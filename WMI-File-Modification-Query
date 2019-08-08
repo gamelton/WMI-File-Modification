@@ -1,0 +1,1 @@
+SELECT * FROM __InstanceModificationEvent WITHIN 60 WHERE TargetInstance ISA 'CIM_DataFile' AND TargetInstance.Name = 'C:\\Program Files (x86)\\nxlog\\conf\\nxlog.conf'
